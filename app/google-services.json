@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421972233217",
+    "project_id": "bookstore-acb23",
+    "storage_bucket": "bookstore-acb23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421972233217:android:c5a800d1856ac6c9b70400",
+        "android_client_info": {
+          "package_name": "com.etf.bookstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSTCRCca7bFhYODusIbQuAfFoOpqh30NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
